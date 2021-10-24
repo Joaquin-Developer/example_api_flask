@@ -1,0 +1,19 @@
+[
+    {
+        "in_production": false
+    },
+    {
+        "mode": "dev",
+        "username": "root",
+        "database_name": "gestion_uni",
+        "passw": "",
+        "host": "localhost"
+    },
+    {
+        "mode": "production",
+        "username": null,
+        "database_name": null,
+        "passw": null,
+        "host": null
+    }
+]
